@@ -25,7 +25,7 @@ $config = array();
 // For examples see http://pear.php.net/manual/en/package.database.mdb2.intro-dsn.php
 // NOTE: for SQLite use absolute path (Linux): 'sqlite:////full/path/to/sqlite.db?mode=0646'
 //       or (Windows): 'sqlite:///C:/full/path/to/sqlite.db'
-$config['db_dsnw'] = 'mysql://test:@localhost/roundcubemail';
+$config['db_dsnw'] = 'mysql://user2E8:jP50JQYOTyeSPTfA@172.30.162.149/cxxxx';
 
 // Database DSN for read-only operations (if empty write database will be used)
 // useful for database replication
