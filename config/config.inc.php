@@ -25,7 +25,7 @@ $config = array();
 // For examples see http://pear.php.net/manual/en/package.database.mdb2.intro-dsn.php
 // NOTE: for SQLite use absolute path (Linux): 'sqlite:////full/path/to/sqlite.db?mode=0646'
 //       or (Windows): 'sqlite:///C:/full/path/to/sqlite.db'
-$config['db_dsnw'] = 'mysql://roundcube:pass@localhost/roundcubemail';
+$config['db_dsnw'] = 'mysql://user2E8:jP50JQYOTyeSPTfA@172.30.162.149/cxxxx';
 
 // The mail host chosen to perform the log-in.
 // Leave blank to show a textbox at login, give a list of hosts
@@ -68,13 +68,13 @@ $config['smtp_pass'] = '';
 $config['support_url'] = '';
 
 // Name your service. This is displayed on the login screen and in the window title
-$config['product_name'] = 'Roundcube Webmail';
+$config['product_name'] = 'Cxxxx Webmail';
 
 // this key is used to encrypt the users imap password which is stored
 // in the session record (and the client cookie if remember password is enabled).
 // please provide a string of exactly 24 chars.
 // YOUR KEY MUST BE DIFFERENT THAN THE SAMPLE VALUE FOR SECURITY REASONS
-$config['des_key'] = 'rcmail-!24ByteDESkey*Str';
+$config['des_key'] = 'cxxxx-!ub?vax:3wUW5TDB0^';
 
 // List of active plugins (in plugins/ directory)
 $config['plugins'] = array(
